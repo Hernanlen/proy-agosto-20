@@ -1,0 +1,12 @@
+*
+{
+    margin: 10px;
+}
+body{
+    background-color: darkslateblue;
+}
+H1{
+    color: aliceblue;
+    background-color: gray;
+    align-items: center;
+}
